@@ -18,7 +18,11 @@ happened, I sayz to diffy, I sayz:
   (maintaining the structure.)  That is, make a subtree of the project tree
   containing only those files that have changed." 
   
-(actually, at that time i was doing this manually, which is when i decided i needed to make something like this.)
+(actually, at that time i was doing this manually, which is when i decided 
+i needed to make something like this.)
+
+(anyone familiar with git stash should not be needing this or using this or 
+reading this.)
 
 Then in my main folder I revert back to a pristine copy, and work on the new 
 task.  But then, uh-oh, now the second task-switch happens where I need to 
